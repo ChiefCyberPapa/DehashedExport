@@ -3,7 +3,7 @@ This Python script uses the Dehashed API to retrieve a list of email addresses a
 
 ## Prerequisites
 
-Before using this script, ensure you have the following prerequisites installed:
+You must have an API key purchses from dehashed.com to interface with their API. Before using this script, ensure you have the following prerequisites installed:
 
 1. **Python 3.x**: You need Python 3.x to run this script. You can check if Python is installed on your system by running:
 
