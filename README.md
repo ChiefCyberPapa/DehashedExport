@@ -10,7 +10,7 @@ You must have an API key purchses from dehashed.com to interface with their API.
    ```bash
    python3 --version
 
-   If Python is not installed, install it using the following command for Ubuntu/Debian-based systems:
+If Python is not installed, install it using the following command for Ubuntu/Debian-based systems:
 
    ```bash
    sudo apt update
