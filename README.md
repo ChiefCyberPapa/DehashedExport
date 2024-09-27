@@ -63,3 +63,4 @@ Before using this script, ensure you have the following prerequisites installed:
 
    You can buy me a coffee if you like this or send complaints and improvements to ChiefCyberPapa@proton.me.
 
+6. Use the exported CSV and compare it with a list of emails you have compiled as a CSV with the DehashedCompare tool found here: https://github.com/ChiefCyberPapa/DehashedCompare/tree/main
