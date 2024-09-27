@@ -7,21 +7,21 @@ You must have an API key purchses from dehashed.com to interface with their API.
 
 1. **Python 3.x**: You need Python 3.x to run this script. You can check if Python is installed on your system by running:
 
-```bash
+   ```bash
    python3 --version
 
 If Python is not installed, install it using the following command for Ubuntu/Debian-based systems:
 
-```bash
+   ```bash
    sudo apt update
 
-```bash
+   ```bash
    sudo apt install python3 python3-pip
 
 
 2. This script uses the colorama package to display colored text in the terminal. Install it by running:
 
-```bash
+   ```bash
    pip3 install colorama
 
 ## Installation
@@ -30,12 +30,12 @@ If Python is not installed, install it using the following command for Ubuntu/De
 
 2. Use the git clone command to clone the repository:
 
-```bash
+   ```bash
    git clone https://github.com/ChiefCyberPapa/DehashedExport.git
 
 4. Navigate to the cloned directory:
 
-```bash
+   ```bash
    cd DehashedExport
    
 ## Usage
