@@ -67,7 +67,7 @@ If Python is not installed, install it using the following command for Ubuntu/De
     Your Dehashed API key.
     The single domain, single email, list of emails separated by commas, or path to a text file of comma-separated values you wish to search (e.g., **example.com** for a domain, **email@example.com** for an individual email, **email1@example.com,email2@example.com,email3@example.com** for a string of emails or **/home/user/Desktop/email_list.txt** for a text file with comma-separated list).
 
-4. Once the script retrieves the data, it will automatically export the results into a CSV file named dehashed_results_<domain>.csv.
+4. Once the script retrieves the data, it will ask you to name the CSV file. Besure to add ".csv" to the end.
 
 5. After successful completion, you will see a friendly message:
 
